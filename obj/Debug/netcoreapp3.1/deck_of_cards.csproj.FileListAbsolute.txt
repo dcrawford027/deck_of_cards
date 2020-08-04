@@ -1,0 +1,12 @@
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.deps.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.runtimeconfig.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.runtimeconfig.dev.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.dll
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.pdb
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.csprojAssemblyReference.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.AssemblyInfoInputs.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.AssemblyInfo.cs
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.csproj.CoreCompileInputs.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.dll
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.pdb
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.genruntimeconfig.cache
